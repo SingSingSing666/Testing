@@ -1,2 +1,6 @@
-Test.java
- Test
+ru/stqa/pft/sandbox/Rectangle.java
+ ru.stqa.pft.sandbox.Rectangle
+ru/stqa/pft/sandbox/Square.java
+ ru.stqa.pft.sandbox.Square
+ru/stqa/pft/sandbox/ProgramForTest.java
+ ru.stqa.pft.sandbox.ProgramForTest
